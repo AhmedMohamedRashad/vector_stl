@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1577475301 source:e:\ahmed\fci\p l\c++\project c++\21\assignment3\main.cpp
+	<iostream>
+	<FciVector.h>
+	<string>
+
+1576848789 source:e:\ahmed\fci\p l\c++\project c++\21\assignment3\fcivector.cpp
+	"FciVector.h"
+
+1577477562 e:\ahmed\fci\p l\c++\project c++\21\assignment3\fcivector.h
+	<string>
+
